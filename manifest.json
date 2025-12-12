@@ -1,6 +1,6 @@
 {
-  "id": "pl.docchi.onlinestream",
-  "name": "Docchi.pl (Online Stream)",
+  "id": "docchi",
+  "name": "Docchi",
   "description": "Online streaming provider dla Docchi.pl (API v1) z fallbackiem pod mpv/yt-dlp.",
   "manifestURI": "",
   "version": "0.1.0",
