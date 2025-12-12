@@ -1,0 +1,13 @@
+{
+  "id": "docchi",
+  "name": "Docchi",
+  "description": "Online streaming provider dla Docchi.pl (API v1) z fallbackiem pod mpv/yt-dlp.",
+  "manifestURI": "",
+  "version": "0.1.0",
+  "author": "twoj-nick",
+  "type": "onlinestream-provider",
+  "language": "typescript",
+  "lang": "pl",
+  "payloadURI": "https://raw.githubusercontent.com/4zjata/r/refs/heads/main/docchi.ts",
+  "payload": ""
+}
